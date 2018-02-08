@@ -170,6 +170,24 @@ Triple tap off|2|4
 Tap and hold on|1|2
 Tap and hold off|2|2
 
+Below is a table of the action/scenes for the HomeSeer HD-200+ dimmer swtich
+**Action**|**scene\_id**|**scene\_data**
+:-----:|:-----:|:-----:
+Single tap on|1|7680
+Single tap off|2|7680
+Double tap on|1|7860
+Double tap off|2|7860
+Triple tap on|1|7920
+Triple tap off|2|7920
+4 tap on|1|7980
+4 tap off|2|7980
+5 tap on|1|8040
+5 tap off|2|8040
+Tap and hold on press|1|7800
+Tap and hold on release|1|7740
+Tap and hold off press|2|7800
+Tap and hold off release|2|7800
+
 ### {% linkable_title Fibaro Button FGPB-101-6 v3.2 %}
 
 <!-- from https://hastebin.com/esodiweduq.cs -->
